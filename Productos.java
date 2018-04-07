@@ -10,7 +10,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Mi PC
+ * @author Cristian Mundo00086917
  */
 public class Productos {
     private ArrayList<Inv> productos;
